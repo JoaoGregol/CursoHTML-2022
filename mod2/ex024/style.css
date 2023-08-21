@@ -1,0 +1,19 @@
+#fonte1{
+    background-color: rgba(100, 231, 100, 0.808);
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(42, 241, 208), 0 0 5px rgb(2, 2, 2);
+}
+body{
+    background-color: rgb(171, 240, 171);
+    
+}
+
+h2{
+    color: rgba(43, 139, 43, 0.671);
+}
+.primeiro{
+    background-color: white;
+ border: 2px solid rgb(150, 144, 144);
+ box-shadow: 2px 2px 2px rgb(0, 0, 0);
+}

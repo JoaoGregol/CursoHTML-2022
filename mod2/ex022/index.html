@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Tela de Login</title>
+</head>
+
+<body>
+    
+<header></header>
+<main>
+
+
+<div class="testeyt"><h1>Teste do youtube</h1></div>
+
+
+
+<img src="117523885_658691554997557_7530953096737505281_n.jpg" alt="" width="250">
+<div id="teste">
+    <div id="teste2">
+        <input type="text" placeholder="Usuario" id="usuario"><br>
+    </div>
+    <input type="password" placeholder="Senha" id="senha">
+</div>
+<div>
+    <button id="botao-enviar">Enviar</button>
+</div>
+</main>
+
+
+
+
+
+
+
+<footer></footer>
+
+<script>
+    document.getElementById('botao-enviar').addEventListener('click', capturarInformacoes);
+    
+    function capturarInformacoes() {
+        var usuario = document.getElementById('usuario').value;
+        var senha = document.getElementById('senha').value;
+        
+        console.log('Usuário:', usuario);
+        console.log('Senha:', senha);
+    }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,61 @@
+body{
+padding: auto;
+margin: auto;
+}
+
+nav{
+    text-align: right;
+}
+
+a{
+    border-radius: 4px;
+    width: auto;
+    color: rgb(252, 252, 252);
+    text-decoration: none;
+    box-sizing: border-box;
+    
+}
+a:visited{
+    color: black;
+}
+.teste{
+
+    width: 300px;
+    height: 800px;
+    background-color: gray;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.teste2{
+    width: 300px;
+    height: 250px;
+    background-color: rgb(54, 156, 29);
+    padding: 10px;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 4px;
+    
+}
+.teste3{
+    width: 300px;
+    height: 250px;
+    background-color: rgb(5, 217, 245);
+    padding: 10px;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 4px;
+    
+}
+.teste4{
+    width: 300px;
+    height: 250px;
+    background-color: rgb(5, 217, 245);
+    padding: 10px;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 4px;
+    
+}

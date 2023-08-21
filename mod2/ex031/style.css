@@ -1,0 +1,213 @@
+body{
+    background-color: dimgrey;
+    font-family: sans-serif;
+}
+
+header{
+    background-color: white;
+    box-shadow: 2px 2px  rgba(183, 224, 248, 0.445);
+    text-align: justify;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+h1{
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.26) ;
+    text-align: center;
+}
+
+
+main{
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 2px 2px rgba(183, 224, 248, 0.445);
+    text-align: justify;
+    border-radius: 4px ;
+}
+
+section{
+    background-color: rgb(95, 95, 95);
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 12px;
+}
+
+aside{
+    background-color: rgb(95, 95, 95);
+    color: white;
+    font-weight: bold;
+    text-align: justify;
+    border-radius: 4px;
+}
+
+.h2prin{
+    text-align: center;
+}
+
+
+
+.put > a:visited{
+    border-radius: 4px;
+    background-color: rgb(95, 95, 95);
+    color: white;
+    font-weight: bold;
+    box-shadow: none;
+    border: none;
+}
+
+
+.p{
+    border-radius: 4px;
+    background-color: rgb(95, 95, 95);
+    color: white;
+    font-weight: bold;
+    box-shadow: none;
+    border: none;
+}
+
+.p > a:visited{
+    border-radius: 4px;
+    background-color: rgb(95, 95, 95);
+    color: white;
+    font-weight: bold;
+    box-shadow: none;
+    border: none;
+}
+
+
+.p{
+    border-radius: 4px;
+    background-color: rgb(95, 95, 95);
+    color: white;
+    font-weight: bold;
+    box-shadow: none;
+    border: none;
+}
+
+
+.pu > a:visited{
+    border-radius: 4px;
+    background-color: rgb(95, 95, 95);
+    color: white;
+    font-weight: bold;
+    box-shadow: none;
+    border: none;
+}
+
+.pu{
+    border-radius: 4px;
+    background-color: rgb(95, 95, 95);
+    color: white;
+    font-weight: bold;
+    box-shadow: none;
+    border: none;
+}
+
+
+
+.put{
+    border-radius: 4px;
+    background-color: rgb(95, 95, 95);
+    color: white;
+    font-weight: bold;
+    box-shadow: none;
+    border: none;
+}
+
+
+
+
+.puts > a:visited{
+    color: white;
+    
+}
+
+.puts{
+    border-radius: 4px;
+    background-color: rgb(95, 95, 95);
+    color: white;
+    font-weight: bold;
+    box-shadow: none;
+    border: none;
+}
+
+.puts:hover{
+    background-color: rgba(91, 188, 245, 0.445);
+    text-decoration: none;
+}
+
+
+.put:hover{
+    background-color: rgba(91, 188, 245, 0.445);
+    text-decoration: none;
+}
+
+.pu:hover{
+    background-color: rgba(91, 188, 245, 0.445);
+    text-decoration: none;
+}
+
+.p:hover{
+    background-color: rgba(91, 188, 245, 0.445);
+    text-decoration: none;
+}
+
+
+nav{
+    background-color: rgb(95, 95, 95);
+    padding: 10px;
+    border-radius: 12px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.336) ;
+}
+
+nav > .pu{
+    margin-right: auto;
+    display: flexbox;
+    margin-right: 25%;
+    margin-left: 19;
+}
+
+nav > .puts{
+    margin-right: auto;
+    display: flexbox;
+    margin-right: 25%;
+    margin-left: 19;
+}
+
+nav > .put{
+    margin-right: auto;
+    display: flexbox;
+    margin-right: 25%;
+    margin-left: 19;
+}
+
+.pop{
+    background-color: white;
+    border-radius: 5px;
+    margin: 10px;
+    width: 300px;
+    align-items: center;
+}
+
+
+.pula{
+ margin: auto;
+}
+
+
+.lol{
+    font-weight: bold;
+    background-color: rgb(95, 95, 95);
+    color: white;
+    border-radius: 6px;
+}
+
+footer{
+    margin-top: 630px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}

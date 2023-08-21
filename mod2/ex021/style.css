@@ -1,0 +1,29 @@
+header{
+    background-color: brown;
+    max-height: 500px;
+    
+}
+footer{
+    margin-top: 450px;
+    background-color: black;
+}
+div{
+    background-color: aqua;
+    text-align: center;
+    border-radius: 10px;
+}
+nav{
+    position: relative;
+}
+button:hover {
+    cursor: pointer;
+  }
+#calica{
+    position: relative;
+    top: 40px;
+    left: 550px;
+    pointer-events: stroke;
+    
+}
+
+
